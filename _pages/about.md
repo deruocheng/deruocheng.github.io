@@ -17,14 +17,25 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Email: [deruo.cheng@ntu.edu.sg](deruo.cheng@ntu.edu.sg) 
+## 1. Contact: 
+Email:      [deruo.cheng@ntu.edu.sg](deruo.cheng@ntu.edu.sg)
+
+Office:     Integrated System Research Lab, School of EEE
+
+## 2. Affiliations
 
     -   Research Scientist, Temasek Laboratories, 
         Nanyang Technological University, Singapore
-
-    -   CET Instructor, National Integrated Center of Evaluation,
-        Nanyang Technological University, Singapore
+        Supervisor: Prof. Gwee Bah-Hwee
     
     -   Visiting Researcher, Machine Intelligence Lab,
         Yonsei University, Seoul, South Korea.
+        Supervisor: Prof. Toh Kar-Ann
 
+## 3. Research Interests
+    
+    -   IC Security Evaluation
+    -   PCB Inspection
+    -   Digital Investigation
+    -   Pattern Recognition
+    -   Machine Learning
