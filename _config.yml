@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Deruo
-middle_name:
+middle_name: ""
 last_name: Cheng
 email: deruo.cheng@ntu.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -44,7 +44,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
