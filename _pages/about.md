@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Email:</a> deruo.cheng@ntu.edu.sg
 
 # profile:
 #   align: right
@@ -14,9 +13,12 @@ subtitle: <a href='#'>Email:</a> deruo.cheng@ntu.edu.sg
 #     <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Research Scientist with Nanyang Technological University
+Research Scientist, Temasek Laboratories,
+Nanyang Technological University, Singapore
+
+Email: deruo.cheng@ntu.edu.sg
