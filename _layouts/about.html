@@ -6,7 +6,7 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h2 class="post-title">
-            {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+            {% if site.title == "blank" -%}{{ site.last_name }} {{ site.first_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h2>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
