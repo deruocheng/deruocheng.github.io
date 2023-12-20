@@ -1,37 +1,38 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Deruo Cheng",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "deruo.cheng@ntu.edu.sg",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Singapore",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Temasek Laboratories, Nanyang Technological University, Singapore",
+      "position": "Research Scientist",
+      "url": "",
+      "startDate": "2020-08",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Hardware Security",
+        "Machine Learning"
       ]
     }
   ],
@@ -49,16 +50,16 @@
     }],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "Nanhyang Technological University",
       "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "url": "",
+      "area": "Hardware Security" "Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2016-07",
+      "endDate": "2021-05",
+      "score": "",
       "courses": [
-        "Theory of Relativity"
+        ""
       ]
     }
   ],
@@ -150,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker"
       "icon":""
     },
@@ -162,7 +163,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Hardware Security",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
