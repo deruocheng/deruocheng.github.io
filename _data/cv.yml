@@ -15,11 +15,8 @@
       description:
         - Analysis of Microscopic IC Images for Layout Extraciton
         - Design of Machine Learning Algorithms for Automated IC Image Analysis
-        #- title: Description 3.
-        #  contents:
-        #    - Sub-description 1.
-        #    - Sub-description 2.
-    - title: B-Eng
+
+    - title: BEng (1st Class Honours)
       institution: Nanyang Technological University, Singapore
       year: 2012/08 ~ 2016/05
       description:
@@ -32,19 +29,17 @@
     - title: Research Scientist
       institution: Temasek Laboratories, Nanyang Technological University, Singapore.
       year: 2021/07 ~
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+
     - title: Visiting Researcher
-      institution: Machine Intelligence LabYonsei University, Seoul, South Korea.
+      institution: Machine Intelligence Lab, Yonsei University, Seoul, South Korea.
       year: 2023/11 ~ 2024/01
-      description:
-        - Description 1.
-        - Description 2.
 
     - title: Research Assistant
       institution: Temasek Laboratories, Nanyang Technological University, Singapore.
@@ -52,12 +47,11 @@
 
     - title: Intern
       institution: Temasek Laboratories, Nanyang Technological University, Singapore.
-      year: 2019 ~ 2020
-      description:
+      year: 2019/06 ~ 2020/08
 
     - title: Intern
-      institution: Infineon AG, Munich, Germany
-      year: 2015
+      institution: Infineon Technologies AG, Munich, Germany
+      year: 2015/01 ~ 2015/05
 
 # - title: Open Source Projects
 #   type: time_table
