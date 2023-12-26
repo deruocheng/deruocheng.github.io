@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 ### 1. Contact: 
     -   Email:  deruo.cheng@ntu.edu.sg
-    
+
     -   Office: Integrated System Research Lab, School of EEE
 
 ### 2. Affiliations
