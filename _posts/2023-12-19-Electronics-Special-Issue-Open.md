@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Special Issue on "Domain-Integrated Machine Learning for Industrial Data Analytics", Electronics
+title:  Special Issue on "Domain-Integrated Machine Learning for Industrial Data Analytics", Electronics, is online for submission.
 date:   2023-12-19 09:00:00
 description:
 tags: Guest-Editor Special-Issue
