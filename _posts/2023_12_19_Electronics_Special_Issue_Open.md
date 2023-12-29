@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Special Issue on "Domain-Integrated Machine Learning for Industrial Data Analytics", Electronics
+date:   2023-12-19 09:00:00
+description:
+tags: Guest Editor, Special Issue.
+categories: Editorial
+---
+I work as the Lead Guest Editors for a Special Issue on "Domain-Integrated Machine Learning for Industrial Data Analytics" with Electronics. The Special Issue is online for submission at https://www.mdpi.com/journal/electronics/special_issues/ML_IDA.
