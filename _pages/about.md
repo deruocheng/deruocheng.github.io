@@ -24,9 +24,8 @@ social: false # includes social icons at the bottom of the page
 
 ### 2. Affiliations
 
-    -   Research Scientist, Temasek Laboratories, 
+    -   Research Scientist,
         Nanyang Technological University, Singapore
-        Supervisor: Prof. Gwee Bah-Hwee
 
 ### 3. Research Interests
     
