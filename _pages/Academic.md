@@ -31,6 +31,7 @@ nav_order: 2
     *   IEEE Trans. on Circuits and Systems I: Regular Papers
     *   Pattern Recognition Letters
     *   Microscopy and Microanalysis
+    *   Imaging and Radiation Research
     *   IET Image Processing
     *   Electronics
     *   Integration
