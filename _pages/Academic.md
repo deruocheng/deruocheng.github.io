@@ -42,6 +42,7 @@ nav_order: 2
 
 -   #### Reviewer of International Conferences
     *   IEEE International Symposium on Circuits and Systems, ISCAS'2024, ISCAS'2022, ISCAS'2021, ISCAS'2020
+    *   International Conference on Electrical, Computer and Energy Technologies, ICECET'2024
+    *   International Conference on Image, Vision and Computing, ICIVC'2023
     *   IEEE International System-on-Chip Conference, SOCC'2019
     *   IEEE Biomedical Circuits and Systems Conference, BioCAS'2019
-    *   International Conference on Image, Vision and Computing, ICIVC'2023
