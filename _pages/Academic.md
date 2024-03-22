@@ -29,6 +29,8 @@ nav_order: 2
 -   #### Reviewer of International Journals
     *   IEEE Trans. on Circuits and Systems for Video Technology
     *   IEEE Trans. on Circuits and Systems I: Regular Papers
+    *   IEEE Trans. on Instrumentation & Measurement
+    *   Computers in Industry
     *   Pattern Recognition Letters
     *   Microscopy and Microanalysis
     *   Imaging and Radiation Research
@@ -43,6 +45,6 @@ nav_order: 2
 -   #### Reviewer of International Conferences
     *   IEEE International Symposium on Circuits and Systems, ISCAS'2024, ISCAS'2022, ISCAS'2021, ISCAS'2020
     *   International Conference on Electrical, Computer and Energy Technologies, ICECET'2024
-    *   International Conference on Image, Vision and Computing, ICIVC'2023
+    *   International Conference on Image, Vision and Computing, ICIVC'2024, ICIVC'2023
     *   IEEE International System-on-Chip Conference, SOCC'2019
     *   IEEE Biomedical Circuits and Systems Conference, BioCAS'2019
