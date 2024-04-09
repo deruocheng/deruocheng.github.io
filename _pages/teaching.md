@@ -8,6 +8,9 @@ nav_order: 3
 ---
 
 ### As Lecture / Instructor
+    -   2024/02~2024/04     CET920, Fault-Injection Attacks & Hardware Trojan
+        National Integrated Centre for Evaluation, Singapore
+
     -   2023/08~2023/10     NM6008, Digital IC Design
         NTU-TUM MSc Programme in IC Design, Singapore
 
