@@ -20,6 +20,7 @@ nav_order: 2
 
 -   #### Technical Committee
     *   Associate Member, IEEE Circuits and System Society Digital Signal Processing Technical Committee
+    *   Program Committee Member, the 2nd International Conference on AI-generated Content (AIGC 2024), Beijing, China.
     *   Program Committee Member, the 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2024), UK.
     *   Technical Committee Mmeber, the 9th International Conference on Image, Vision and Computing (ICIVC 2024), Suzhou, China.
     *   Technical Committee Member, the 8th International Conference on Image, Vision and Computing (ICIVC 2023), Dalian, China.
