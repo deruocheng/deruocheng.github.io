@@ -47,7 +47,7 @@ nav_order: 2
     *   Algorithms
 
 -   #### Reviewer of International Conferences
-    *   IEEE International Symposium on Circuits and Systems, ISCAS'2024, ISCAS'2022, ISCAS'2021, ISCAS'2020
+    *   IEEE International Symposium on Circuits and Systems, ISCAS'2025, ISCAS'2024, ISCAS'2022, ISCAS'2021, ISCAS'2020
     *   IEEE Region 10 Conference, TENCON'2024
     *   International Conference on Electrical, Computer and Energy Technologies, ICECET'2024
     *   International Conference on Image, Vision and Computing, ICIVC'2024, ICIVC'2023
