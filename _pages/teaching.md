@@ -8,6 +8,12 @@ nav_order: 3
 ---
 
 ### As Lecture / Instructor
+    -   2024/11~2024/11     CET945, Hardware Security and Design for Trust
+        NTU Centre for Professional and Continuing Education (PaCE@NTU)
+
+    -   2024/11~2024/11     CET944, Hardware Trojan Threats and Countermeasures
+        NTU Centre for Professional and Continuing Education (PaCE@NTU)
+
     -   2024/08~2024/09     NM6008, Digital IC Design
         NTU-TUM MSc Programme in IC Design, Singapore
         
