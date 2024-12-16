@@ -7,12 +7,9 @@ nav: true
 nav_order: 2
 ---
 
--   #### IEEE Member since 2018
+-   #### IEEE Member, IEEE Circuits and Systems Society Member
 
--   #### IEEE Circuits and Systems Society Member since 2018
-
--   #### Guest Editorial
-    *   Deruo Cheng and Bah-Hwee Gwee, Special Issue on "Domain-Integrated Machine Learning for Industrial Data Analytics", Electronics.
+-   #### IEEE Circuits and Systems Society Singapore Chapter Co-opt Member
 
 -   #### Area-Chair/Track-Chair/Co-chair/Session Organizer
     *   Live Demonstrations Chair, ISCAS 2024, Singapore.
@@ -28,7 +25,7 @@ nav_order: 2
 -   #### Advisory Board
     *   Topical Advisory Panel, Electronics
 
--   #### Reviewer of International Journals
+-   #### Reviewer for International Journals
     *   IEEE Trans. on Circuits and Systems for Video Technology
     *   IEEE Trans. on Circuits and Systems I: Regular Papers
     *   IEEE Trans. on Instrumentation & Measurement
@@ -46,7 +43,7 @@ nav_order: 2
     *   Sensors
     *   Algorithms
 
--   #### Reviewer of International Conferences
+-   #### Review Committee Member / Reviewer for International Conferences
     *   IEEE International Symposium on Circuits and Systems, ISCAS'2025, ISCAS'2024, ISCAS'2022, ISCAS'2021, ISCAS'2020
     *   IEEE Region 10 Conference, TENCON'2024
     *   International Conference on Electrical, Computer and Energy Technologies, ICECET'2024
