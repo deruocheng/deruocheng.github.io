@@ -51,33 +51,4 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-
-    // Category tabs functionality
-    const tabButtons = document.querySelectorAll('.tab-button');
-
-    tabButtons.forEach(button => {
-        button.addEventListener('click', function() {
-            const categoryId = this.getAttribute('data-category');
-            const section = this.closest('.section');
-
-            // Remove active class from all buttons in this section
-            const sectionButtons = section.querySelectorAll('.tab-button');
-            sectionButtons.forEach(btn => btn.classList.remove('active'));
-
-            // Add active class to clicked button
-            this.classList.add('active');
-
-            // Hide all categories in this section
-            const categories = section.querySelectorAll('.publication-category, .experience-category');
-            categories.forEach(category => {
-                category.style.display = 'none';
-            });
-
-            // Show the selected category
-            const targetCategory = section.querySelector(`#${categoryId}`);
-            if (targetCategory) {
-                targetCategory.style.display = 'block';
-            }
-        });
-    });
 });
