@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cheng Deruo, NTUsg</title>
+    <link rel="icon" href="data:,">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -134,7 +135,14 @@
             <div class="container">
                 <h2 class="section-title">Publications</h2>
 
-                <div class="publication-category">
+                <!-- Category Tabs for Publications -->
+                <div class="category-tabs">
+                    <button class="tab-button active" data-category="under-review">Under Review/Revision</button>
+                    <button class="tab-button" data-category="published">Published/Accepted</button>
+                    <button class="tab-button" data-category="invited-talks">Invited Talks</button>
+                </div>
+
+                <div class="publication-category" id="under-review" style="display: block;">
                     <h3>Papers under Review or Revision</h3>
                     <ol class="publication-list">
                         <li>
@@ -165,7 +173,7 @@
                     </ol>
                 </div>
 
-                <div class="publication-category">
+                <div class="publication-category" id="published" style="display: none;">
                     <h3>Papers Published or Accepted for Publication</h3>
                     <ol class="publication-list">
                         <li>
@@ -331,7 +339,7 @@
                     </ol>
                 </div>
 
-                <div class="publication-category">
+                <div class="publication-category" id="invited-talks" style="display: none;">
                     <h3>Invited Talks and Tutorials</h3>
                     <ol class="publication-list">
                         <li>
@@ -364,7 +372,13 @@
             <div class="container">
                 <h2 class="section-title">Academic Experience</h2>
 
-                <div class="experience-category">
+                <!-- Category Tabs for Academic Experience -->
+                <div class="category-tabs">
+                    <button class="tab-button active" data-category="teaching">Teaching</button>
+                    <button class="tab-button" data-category="professional-service">Professional Service</button>
+                </div>
+
+                <div class="experience-category" id="teaching" style="display: block;">
                     <h3>Teaching Experience</h3>
                     <div class="experience-list">
                         <div class="experience-item">
@@ -412,7 +426,7 @@
                     </div>
                 </div>
 
-                <div class="experience-category">
+                <div class="experience-category" id="professional-service" style="display: none;">
                     <h3>Professional Service</h3>
                     <div class="experience-list">
                         <div class="experience-item">
