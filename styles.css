@@ -51,6 +51,11 @@ body {
     align-items: center;
 }
 
+.nav-title-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .nav-title {
     font-size: 1.5rem;
     font-weight: 600;
